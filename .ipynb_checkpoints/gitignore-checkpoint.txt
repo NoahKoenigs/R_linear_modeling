@@ -1,5 +1,5 @@
 .bash_logout
-.bashrc
+ .bashrc
 .cache/
 .conda/
 .jupyter-server-log.txt
