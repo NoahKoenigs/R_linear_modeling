@@ -57,3 +57,70 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [I 2023-07-06 18:29:14.557 LabApp] Build is up to date
 [I 2023-07-06 18:29:22.898 ServerApp] New terminal with automatic name: 1
 [I 2023-07-06 18:29:51.859 ServerApp] Saving file at /gitignore.txt
+Launching jupyter-lab
+[I 2023-07-11 17:25:25.646 ServerApp] jupyter_offlinenotebook | extension was successfully linked.
+[I 2023-07-11 17:25:25.647 ServerApp] jupyter_resource_usage | extension was successfully linked.
+[I 2023-07-11 17:25:25.658 ServerApp] jupyter_server_fileid | extension was successfully linked.
+[I 2023-07-11 17:25:25.658 ServerApp] jupyter_server_proxy | extension was successfully linked.
+[I 2023-07-11 17:25:25.665 ServerApp] jupyter_server_ydoc | extension was successfully linked.
+[W 2023-07-11 17:25:25.669 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-07-11 17:25:25.669 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-07-11 17:25:25.669 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-07-11 17:25:25.669 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-07-11 17:25:25.669 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-07-11 17:25:25.676 ServerApp] jupyterlab | extension was successfully linked.
+[W 2023-07-11 17:25:25.680 NotebookApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2023-07-11 17:25:25.680 NotebookApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2023-07-11 17:25:25.680 NotebookApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-07-11 17:25:25.680 NotebookApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-07-11 17:25:25.680 NotebookApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-07-11 17:25:25.686 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-07-11 17:25:26.120 ServerApp] notebook_shim | extension was successfully linked.
+[I 2023-07-11 17:25:26.173 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-07-11 17:25:26.174 ServerApp] jupyter_offlinenotebook | extension was successfully loaded.
+[I 2023-07-11 17:25:26.176 ServerApp] jupyter_resource_usage | extension was successfully loaded.
+[I 2023-07-11 17:25:26.176 FileIdExtension] Configured File ID manager: ArbitraryFileIdManager
+[I 2023-07-11 17:25:26.177 FileIdExtension] ArbitraryFileIdManager : Configured root dir: /home/jovyan
+[I 2023-07-11 17:25:26.177 FileIdExtension] ArbitraryFileIdManager : Configured database path: /home/jovyan/.local/share/jupyter/file_id_manager.db
+[I 2023-07-11 17:25:26.180 FileIdExtension] ArbitraryFileIdManager : Successfully connected to database file.
+[I 2023-07-11 17:25:26.180 FileIdExtension] ArbitraryFileIdManager : Creating File ID tables and indices with journal_mode = DELETE
+[I 2023-07-11 17:25:26.180 ServerApp] jupyter_server_fileid | extension was successfully loaded.
+[I 2023-07-11 17:25:26.203 ServerApp] jupyter_server_proxy | extension was successfully loaded.
+[I 2023-07-11 17:25:26.205 ServerApp] jupyter_server_ydoc | extension was successfully loaded.
+[I 2023-07-11 17:25:26.206 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.9/site-packages/jupyterlab
+[I 2023-07-11 17:25:26.206 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 2023-07-11 17:25:26.217 ServerApp] jupyterlab | extension was successfully loaded.
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                                                                           
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[I 2023-07-11 17:25:26.227 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-07-11 17:25:26.227 ServerApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 2023-07-11 17:25:26.228 ServerApp] Serving notebooks from local directory: /home/jovyan
+[I 2023-07-11 17:25:26.228 ServerApp] Jupyter Server 1.23.6 is running at:
+[I 2023-07-11 17:25:26.228 ServerApp] http://jupyter-noahkoenigs-2dr-5flinear-5fregrex-2d2rayhmkh:8888/binder/jupyter/user/noahkoenigs-r_linear_regrex-2rayhmkh/lab?token=...
+[I 2023-07-11 17:25:26.228 ServerApp]  or http://127.0.0.1:8888/binder/jupyter/user/noahkoenigs-r_linear_regrex-2rayhmkh/lab?token=...
+[I 2023-07-11 17:25:26.228 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2023-07-11 17:25:26.234 ServerApp] No web browser found: could not locate runnable browser.
+[I 2023-07-11 17:25:26.806 ServerApp] 302 GET /binder/jupyter/user/noahkoenigs-r_linear_regrex-2rayhmkh/ (10.244.1.48) 1.83ms
+[I 2023-07-11 17:25:26.956 ServerApp] 302 GET /binder/jupyter/user/noahkoenigs-r_linear_regrex-2rayhmkh/?token=[secret] (140.254.70.167) 1.54ms
+[W 2023-07-11 17:25:30.151 ServerApp] 404 GET /binder/jupyter/user/noahkoenigs-r_linear_regrex-2rayhmkh/api/me?1689096329812 (140.254.70.167) 35.54ms referer=https://notebooks.gesis.org/binder/jupyter/user/noahkoenigs-r_linear_regrex-2rayhmkh/lab
+[I 2023-07-11 17:25:37.211 ServerApp] New terminal with automatic name: 1
+[I 2023-07-11 17:25:37.220 LabApp] Build is up to date
+[I 2023-07-11 17:29:59.010 ServerApp] Creating new notebook in 
+[I 2023-07-11 17:29:59.097 ServerApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[I 2023-07-11 17:30:00.162 ServerApp] Kernel started: 24457cb6-91bb-4315-b12c-ab7f4dc6d3b5
+[I 2023-07-11 17:30:00.163 ServerApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 2023-07-11 17:30:00.163 ServerApp] Culling kernels even with connected clients
+[W 2023-07-11 17:30:01.898 ServerApp] Could not destroy zmq context for <jupyter_client.asynchronous.client.AsyncKernelClient object at 0x7f0bfbe529a0>
+[I 2023-07-11 17:31:59.712 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-07-11 17:34:48.157 ServerApp] Uploading file to /regrex1.csv
