@@ -124,3 +124,4 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [W 2023-07-11 17:30:01.898 ServerApp] Could not destroy zmq context for <jupyter_client.asynchronous.client.AsyncKernelClient object at 0x7f0bfbe529a0>
 [I 2023-07-11 17:31:59.712 ServerApp] Saving file at /Untitled.ipynb
 [I 2023-07-11 17:34:48.157 ServerApp] Uploading file to /regrex1.csv
+[I 2023-07-11 17:36:00.054 ServerApp] Saving file at /Untitled.ipynb
