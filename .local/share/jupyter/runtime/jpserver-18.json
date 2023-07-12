@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "base_url": "/user/noahkoenigs-r_linear_regrex-zu1ffftm/",
+=======
+  "base_url": "/binder/jupyter/user/noahkoenigs-r_linear_regrex-4e5vf7yk/",
+>>>>>>> aac5d40b74d91d52d4876b343b68729e08ae5da9
   "hostname": "0.0.0.0",
   "password": false,
   "pid": 18,
@@ -7,7 +11,12 @@
   "root_dir": "/home/jovyan",
   "secure": false,
   "sock": "",
+<<<<<<< HEAD
   "token": "GuGp3LhMSMKYerhMBLWJmw",
   "url": "http://jupyter-noahkoenigs-2dr-5flinear-5fregrex-2dzu1ffftm:8888/user/noahkoenigs-r_linear_regrex-zu1ffftm/",
+=======
+  "token": "DEHQPHFiT0GF2GIzrkZhDg",
+  "url": "http://jupyter-noahkoenigs-2dr-5flinear-5fregrex-2d4e5vf7yk:8888/binder/jupyter/user/noahkoenigs-r_linear_regrex-4e5vf7yk/",
+>>>>>>> aac5d40b74d91d52d4876b343b68729e08ae5da9
   "version": "1.23.6"
 }
