@@ -1,0 +1,13 @@
+{
+  "base_url": "/binder/jupyter/user/noahkoenigs-r_linear_regrex-uzuz6ido/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 47,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "QiHgxSq_SC-ozzrxnP0KBQ",
+  "url": "http://jupyter-noahkoenigs-2dr-5flinear-5fregrex-2duzuz6ido:8888/binder/jupyter/user/noahkoenigs-r_linear_regrex-uzuz6ido/",
+  "version": "1.23.6"
+}
