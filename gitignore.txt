@@ -6,3 +6,5 @@
 .jupyter/
 .local/
 .profile
+,gitignore
+.gitignore
