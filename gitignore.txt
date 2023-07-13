@@ -8,3 +8,5 @@
 .profile
 ,gitignore
 .gitignore
+.bash_logout
+.bashrc
