@@ -1,8 +1,4 @@
-.bash_logout
-.bashrc
-.cache
-.conda
-ipynb_checkpoints
-.ipython
-.jupyter
-.jupyter-server-log.txt
+.cache/
+.conda/
+.jupyter/lab/user-settings/
+.jupyter/migrated

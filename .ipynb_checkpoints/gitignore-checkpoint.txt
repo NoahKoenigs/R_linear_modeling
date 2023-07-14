@@ -1,4 +1,4 @@
-.gitignore
-.local/share/jupyter/runtime/jpserver-47-open.html
-.local/share/jupyter/runtime/jpserver-47.json
-.local/share/jupyter/runtime/kernel-e4d1eb3c-e0d9-4adf-b28a-b9f34a3aa202.json
+.cache/
+.conda/
+.jupyter/lab/user-settings/
+.jupyter/migrated
