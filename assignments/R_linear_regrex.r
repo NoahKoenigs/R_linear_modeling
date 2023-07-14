@@ -1,5 +1,6 @@
 #Package Install
 install.packages ("ggplot2")
+library ggplot2
 
 #Import dataset
 dataset = read.csv ("regrex1.csv")
@@ -8,6 +9,7 @@ model = lm(formula = x ~ y, data = dataset)
 
 #Scatterplot
 library (ggplot2) 
+
 ggplot() +
     geom_point(aes(x = dataset$ x, y = dataset$ y),color = 'orange')
 
