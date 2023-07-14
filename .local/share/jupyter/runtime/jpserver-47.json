@@ -1,5 +1,5 @@
 {
-  "base_url": "/binder/jupyter/user/noahkoenigs-r_linear_regrex-fewajw20/",
+  "base_url": "/binder/jupyter/user/noahkoenigs-r_linear_regrex-4hqx8lb6/",
   "hostname": "0.0.0.0",
   "password": false,
   "pid": 47,
@@ -7,7 +7,7 @@
   "root_dir": "/home/jovyan",
   "secure": false,
   "sock": "",
-  "token": "NBjRp98HRFybuPEGzCUHwg",
-  "url": "http://jupyter-noahkoenigs-2dr-5flinear-5fregrex-2dfewajw20:8888/binder/jupyter/user/noahkoenigs-r_linear_regrex-fewajw20/",
+  "token": "DWmC0-01TU2ipUuQPwNSYQ",
+  "url": "http://jupyter-noahkoenigs-2dr-5flinear-5fregrex-2d4hqx8lb6:8888/binder/jupyter/user/noahkoenigs-r_linear_regrex-4hqx8lb6/",
   "version": "1.23.6"
 }
